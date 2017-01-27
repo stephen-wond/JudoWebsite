@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The home of BJA Northern Home Counties Judo">
+    <title>BJA - Northern Home Counties</title>
+
+    <!--lib-->
+    <script src="lib/js/angular.min.js"></script>
+    <script src="lib/js/angular-route.min.js"></script>
+    <script src="lib/js/jquery-3.1.1.min.js"></script>
+    <link href="lib/bs/bootstrap.min.css" rel="stylesheet" />
+    
+    <!--template-->
+    <link href="template/css/main.css" rel="stylesheet" />
+    <link href="template/css/icomoon.css" rel="stylesheet" />
+    <link href="template/css/animate-custom.css" rel="stylesheet" />
+    <script src="template/js/modernizr.custom.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+    <!--angular-->
+    <script src="angular/app.js"></script>
+    <script src="angular/controllers/HomeController.js"></script>
+    <script src="angular/controllers/AboutController.js"></script>
+    <script src="angular/controllers/EventsController.js"></script>
+    <script src="angular/controllers/GradingsController.js"></script>
+    <script src="angular/controllers/ClubsController.js"></script>
+    <script src="angular/controllers/ContactController.js"></script>
+
+</head>
+<body ng-app="app" data-spy="scroll" data-offset="0" data-target="#navbar-main">
+    <div id="navbar-main">
+        <!-- Fixed navbar -->
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
+                    </button>
+                    <a class="navbar-brand hidden-xs hidden-sm" href="#home"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
+                </div>
+                <div class="text-center navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#home" class="smoothScroll">Home</a></li>
+                        <li> <a href="#about" class="smoothScroll">About</a></li>
+                        <li> <a href="#events" class="smoothScroll">Events</a></li>
+                        <li> <a href="#gradings" class="smoothScroll">Gradings</a></li>
+                        <li> <a href="#clubs" class="smoothScroll"> Clubs</a></li>
+                        <li> <a href="#contact" class="smoothScroll">Contact</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+
+<div ng-view class="row"></div>
+
+    <div id="footerwrap">
+
+        <div class="container">
+            <h4>British Judo Association - Northern Home Counties</h4>
+            <br />
+            <h3>Contact Information</h3>
+            <br />
+            <div class="col-md-3">
+                <p>
+                    <span class="icon icon-home"></span> Some Address 987, NY<br />
+                    <span class="icon icon-phone"></span> +34 9884 4893 <br />
+                    <span class="icon icon-mobile"></span> +34 59855 9853 <br />
+                </p>
+            </div>
+            <div class="col-md-3">
+                <p>
+                    <span class="icon icon-envelop"></span> agency@blacktie.co <br />
+                    <span class="icon icon-twitter"></span> @blacktie_co <br />
+                    <span class="icon icon-facebook"></span> BlackTie Agency <br />
+                </p>
+            </div>
+            <div class="col-md-3">
+                <p>
+                    <span class="icon icon-home"></span> Some Address 987, NY<br />
+                    <span class="icon icon-phone"></span> +34 9884 4893 <br />
+                    <span class="icon icon-mobile"></span> +34 59855 9853 <br />
+                </p>
+            </div>
+            <div class="col-md-3">
+                <p>
+                    <span class="icon icon-envelop"></span> agency@blacktie.co <br />
+                    <span class="icon icon-twitter"></span> @blacktie_co <br />
+                    <span class="icon icon-facebook"></span> BlackTie Agency <br />
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script src="lib/js/bootstrap.min.js"></script>
+    <script src="lib/js/retina.min.js"></script>
+    <script src="lib/js/jquery.easing.1.3.js"></script>
+    <script src="lib/js/jquery.smooth.scroll-1.0.1.min.js"></script>
+    <script src="lib/js/jquery-func.js"></script>
+</body>
+</html>

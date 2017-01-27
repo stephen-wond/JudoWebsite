@@ -1,0 +1,55 @@
+﻿<div class="col-md-offset-1 col-md-10">
+    <div><h1>SPACER TITLE</h1></div>
+    <div><h1>SPACER TITLE</h1></div>
+    <div ng-controller="ClubsController">
+        
+        <form>
+            <div class="form-group">
+                <div class="input-group">
+                    <div class="input-group-addon"><i class="icon icon-search"></i></div>
+
+                    <input type="text" class="form-control" placeholder="Search for club" ng-model="searchClubs">
+
+                </div>
+            </div>
+        </form>
+
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>
+                    <a href="" ng-click="orderByField='Club_Name'; reverseSort = !reverseSort">Club Name</a>
+                </th>
+                <th>
+                    <a href="" ng-click="orderByField='Area'; reverseSort = !reverseSort">Area</a>
+                </th>
+                <th>
+                    <a href="" ng-click="orderByField='Training_Address'; reverseSort = !reverseSort">Address</a>
+                </th>
+                <th>
+                    <a href="" ng-click="orderByField='Contact.Name'; reverseSort = !reverseSort">Contact</a>
+                </th>
+                <th>
+                    <a href="" ng-click="orderByField='Judoka'; reverseSort = !reverseSort">Judoka</a>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="club in clubs | orderBy:orderByField:reverseSort | filter:searchClubs">
+                <td>{{club.Club_Name}}</td>
+                <td>{{club.Area}}</td>
+                <td>{{club.Training_Address}}</td>
+                <td>
+                    <p>
+                        {{club.Contact.Name}}<br />
+                        <span class="icon icon-phone"></span> :  <a href="tel:{{club.Contact.Phone}}">{{club.Contact.Phone}}</a><br />
+                        <span class="icon icon-envelop"></span> : <a href="mailto:{{club.Contact.Email}}">{{club.Contact.Email}}</a><br />
+                        <span class="icon icon-home"></span> : <a href="http://{{club.Link}}">{{club.Link}}</a>
+                    </p>
+                </td>
+                <td>{{club.Judoka}}</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>    

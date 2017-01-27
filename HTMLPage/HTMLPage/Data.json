@@ -1,0 +1,615 @@
+[
+{
+"Club_Name" : "Bedford Judo Club",
+"Area" : "Bedfordshire",
+"Training_Address" : "Bedford Acadamy, Mile Road, Bedford, MK42 9TR",
+"Contact" : {"Name" : "Anthony Paul Barton", "Phone" : "01234 918972"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Bedfordshire Dragons",
+"Area" : "Bedfordshire",
+"Training_Address" : "The Flitwick & Ampthill School, Althorp Close, Flitwick, MK45 1HY",
+"Contact" : {"Name" : "Ben Van Der Spuy", "Email" : "ben@vanderspuy.info"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+
+
+
+
+{
+"Club_Name" : "Elite School Sports",
+"Area" : "Berkshire",
+"Training_Address" : "The Manor School, Faringdon Road, Abingdon, OX13 6LN",
+"Contact" : {"Name" : "Mark Maidment", "Phone": "07770 41588", "Email" : "eliteschoolsports@btinternet.com"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Linkai Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "Knowl Hill School, Bath Road, Knowl Hill, RG10 0UX",
+"Contact" : {"Name" : "Laura Dixon", "Email" : "laura@linkai-judo.co.uk"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Newbury Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "Almond Avenue, Newbury, RG14 1LU",
+"Contact" : {"Name" : "Nicki Harris", "Email" : "nins67@yahoo.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.newburyjudoclub.co.uk"
+},
+
+{
+"Club_Name" : "Pinewood Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "Pinewood Leisure Centre, Wokingham, RG40 3AQ",
+"Contact" : {"Email" : "contact@pinewoodjudo.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.pinewoodjudo.com"
+},
+
+{
+"Club_Name" : "Procoach Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "Nuffield Health Club, Racecourse Rd, Newbury, RG14 7PN",
+"Contact" : {"Name" : "David Rance", "Phone" : "01344 771846", "Email" : "procoachjudo@yahoo.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Reading Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "Rivermead Leisure Centre, Richfield Avenue, Reading, RG1 8EQ",
+"Contact" : {"Name" : "Kim Tilley", "Email" : "kimtilley@tesco.net"},
+"Judoka" : "Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Windsor Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "New Windsor Community Assoc, Hanover Way, SL4 5NW",
+"Contact" : {"Name" : "Roy Flower", "Phone" : "01753 833304", "Email" : "roy.flower@talk21.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.windsorjudo.co.uk"
+},
+
+{
+"Club_Name" : "Wokingham Judo Club",
+"Area" : "Berkshire",
+"Training_Address" : "Wokingham Youth & Community Centre, 35 Reading Road, Wokingham, RG41 1EG",
+"Contact" : {"Name" : "Dave Napper", "Phone" : "01189 734741", "Email" : "donutdave21@hotmail.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+
+
+
+
+{
+"Club_Name" : "61 Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Amersham School, Stanley Hill, Amersham, Bucks",
+"Contact" : {"Name" : "Andrew Seymour", "Email" : "enquiries@61judoclub.org"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.61judoclub.org"
+},
+
+{
+"Club_Name" : "A.S Judo",
+"Area" : "Buckinghamshire",
+"Training_Address" : "3A Plomer Green Avenue, Downley, High Wycombe, HP13  5LN",
+"Contact" : {"Name" : "Alan Scott", "Phone" : "01494 814650", "Email" : "alan@asjudoacademy.co.uk"},
+"Judoka" : "Junior",
+"Link" : "www.asjudoacademy.co.uk"
+},
+
+{
+"Club_Name" : "Hazelmere Youth Centre Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Hazelmere Youth Centre, Rose Avenue, High Wycombe, HP15 7UB",
+"Contact" : {"Name" : "Helen Ball", "Email" : "ball.helen1@googlemail.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "High Wycombe Judo Centre",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Barry Close, High Wycombe, HP12 4UE",
+"Contact" : {"Phone" : "01494 461838", "Email" : "accounts@wycombejudocentre.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.wycombejudocentre.co.uk"
+},
+
+{
+"Club_Name" : "Micklefield Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Kingswood Junior School, Hollis Road, Totteridge, High Wycombe, HP13 7UN",
+"Contact" : {"Name" : "Paul Horseman", "Phone" : "07836 620251", "Email" : "paul.horseman@virgin.net"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.micklefieldjudoclub.com"
+},
+
+{
+"Club_Name" : "Renrukan",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Quarrendon Community Centre, Bowlers Field, Meadow Croft, Aylesbury, HP19 9HH",
+"Contact" : {"Name" : "Mark Scott", "Phone" : "07890  339942"},
+"Judoka" : "See website",
+"Link" : "www.renrukan.com"
+},
+
+{
+"Club_Name" : "Renzoku Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Sir Herbert Leon Academy, Fern Grove, Milton Keynes, MK2 3HQ",
+"Contact" : {"Name" : "Catherine Clark", "Phone" : "01908 640566", "Email" : "cathclark63@yahoo.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.renzokujudo.org.uk"
+},
+
+{
+"Club_Name" : "Shuzoku Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "Cheddington Village Hall, Church Lane, Cheddington, LU7 0RU",
+"Contact" : {"Name" : "Kyle Perry", "Phone" : "07841  186405", "Email" : "kyleperry@afronovaz.com"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Stokenchurch Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "The Stokenchurch Centre, Bartholomew Tipping Way, Stokenchurch, HP14 3RX",
+"Contact" : {"Name" : "Lucy Selway", "Email" : "lucylockett10@yahoo.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.stokenchurchjudo.org.uk"
+},
+
+{
+"Club_Name" : "Winslow Judo Club",
+"Area" : "Buckinghamshire",
+"Training_Address" : "The Winslow  Centre, Park Road, Winslow, MK18 3DR",
+"Contact" : {"Name" : "Paul Elliott", "Email" : "paulnelliott@btinternet.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.winslowjudoclub.org.uk"
+},
+
+
+
+
+
+
+
+{
+"Club_Name" : "Bushi Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Chelmsford Sports & Athletics Centre, Salerno Way, Chelmsford, CM1 2EH",
+"Contact" : {"Name" : "Kevin Woodcock", "Phone" : "07902 817081", "Email" : "katagurumakev@live.co.uk"},
+"Judoka" : "Junior",
+"Link" : "www.bushijudo.onsport.com"
+},
+
+{
+"Club_Name" : "Chelmsford  Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Dovedales Sport Centre, Vicarage Road, Chelmsford, CM1 2EH",
+"Contact" : {"Name" : "Richard Hogan", "Email" : "hogan.r@btinternet.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Clacton Judo Club",
+"Area" : "Essex",
+"Training_Address" : "St Andrew's Hall, St Andrew's Road, Clacton on Sea, CO15 3DT",
+"Contact" : {"Name" : "Craig Debrick", "Phone" : "01255 421070", "Email" : "craig@rdillon.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.clacton-judo.co.uk"
+},
+
+{
+"Club_Name" : "Edge Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Passmores Academy, Traceys Road, Harlow, CM18 6JH",
+"Contact" : {"Name" : "Mark Conway", "Phone" : "01992  610157", "Email" : "theedgemartialarts@hotmail.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.edgejudo.co.uk"
+},
+
+{
+"Club_Name" : "Ford Judo Club",
+"Area" : "Essex",
+"Training_Address" : "The Pavillion, London Road, RM7 9NX",
+"Contact" : {"Name" : "Elizabeth Kavanagh", "Phone" : "01708  441070", "Email" : "mkkavanagh@hotmail.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.fordjudoclub.co.uk"
+},
+
+{
+"Club_Name" : "Harlow Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Strewards School, Harlow, CM18 7NQ",
+"Contact" : {"Name" : "Gillian Ellis", "Email" : "mickthethrow@yahoo.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.harlowjudoclub.com"
+},
+
+{
+"Club_Name" : "Harold Wood Judo Club",
+"Area" : "Essex",
+"Training_Address" : "War Memorial Hall, 53 Gubbins Lane, Harold Wood, RM13 0UP",
+"Contact" : {"Name" : "Matthew Griffin", "Phone" : "07795  212054", "Email" : "haroldwoodjudoclub@yahoo.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Harwich Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Old Mayflower School, 363 Main Road, Dovercourt, CO12 4DN",
+"Contact" : {"Name" : "Craig De Brick", "Phone" : "01255 421070", "Email" : "wim.monique@btinternet.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.harwich-judo.co.uk"
+},
+
+{
+"Club_Name" : "Havering Judo Kwai",
+"Area" : "Essex",
+"Training_Address" : "The Campion School, Wingletye Lane, Hornchurch, RM11 3GX",
+"Contact" : {"Name" : "Paul Lewis", "Phone" : "07961  572022", "Email" : "havering.judokwai@virgin.net"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Heart of Oak Judo Club (Isaac Newton Academy)",
+"Area" : "Essex",
+"Training_Address" : "Isaac Newton Academy, 1 Cricklefield Place, Ilford, IG1 1FY",
+"Contact" : {"Name" : "Margaret James", "Phone" : "020 8478 2339", "Email" : "heartofoakjudoclub@hotmail.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Heart of Oak Judo Club (St Luke's Church Hall)",
+"Area" : "Essex",
+"Training_Address" : "St Luke's Church Hall, Baxter Road, Ilford, 1GI  2HN",
+"Contact" : {"Name" : "Margaret James", "Phone" : "020 8478 2339", "Email" : "heartofoakjudoclub@hotmail.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "J.S.C  Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Hugh Delargy Hall, North Road, Purfleet, RM19 1TU",
+"Contact" : {"Name" : "John Cottis", "Phone" : "07773  376760", "Email" : "johnjscjudoclub@aol.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.jscjudoclub.co.uk"
+},
+
+{
+"Club_Name" : "Kangei Judo Club",
+"Area" : "Essex",
+"Training_Address" : "St Therese of Lisieux Hall, Florence Way, Langdon Hills, SS16 6AJ",
+"Contact" : {"Name" : "Colin Egleton", "Email" : "kangeijudoclub@gmail.com"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Maldon Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Plantation Hall, Colchester Road, Heybridge, CM9 4NN",
+"Contact" : {"Name" : "Allan R Johnson", "Phone" : "", "Email" : ""},
+"Judoka" : "",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Redbridge Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Mitcham Road, Seven KIngs, Ilford, IG3 8QW ",
+"Contact" : {"Name" : "Terry Roberts", "Phone" : "", "Email" : ""},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Southend Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Chase Sports & Fitness Centre, Prittlewell Chase, Westcliff on Sea, SS0 0PR",
+"Contact" : {"Name" : "Pascal  Knaapen", "Phone" : "07961 184740", "Email" : "southendjc@gmail.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.southendjudo.co.uk"
+},
+
+{
+"Club_Name" : "St Martins School Judo Club",
+"Area" : "Essex",
+"Training_Address" : "St Martins School, Hanging Hill Lane, Brentwood, CM13 2HG",
+"Contact" : {"Name" : "Andrew James", "Email" : "ajjames64@gmail.com"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "The Mill Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Hockley Community Centre, Westminster Drive, Hockley, SS5 4XD",
+"Contact" : {"Name" : "Matthew Ferridge", "Email" : "zerOvis@live.co.uk"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "West Essex Judo Club",
+"Area" : "Essex",
+"Training_Address" : "Blatches Farm, Braintree Road, Stebbing, CM6 3AL",
+"Contact" : {"Name" : "David Walsh", "Phone" : "01371 856770", "Email" : "walsh57@btinternet.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.westessexjudoclub.com"
+},
+
+
+
+
+
+
+
+{
+"Club_Name" : "Bishops Stortford Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "Birchwood High School, Parsonage Lane, CM23 5BD",
+"Contact" : {"Name" : "Nicole Nunn", "Phone" : "07814 556591", "Email" : "nicole.nunn@britishjudo.org.uk"},
+"Judoka" : "See website",
+"Link" : "www.bishopsstortfordjudo.com"
+},
+
+{
+"Club_Name" : "Falcon Judo (Hatfield)",
+"Area" : "Hertfordshire",
+"Training_Address" : "Jim McDonald Centre, McDonald Court, Highview, AL10 8HR",
+"Contact" : {"Name" : "Michael Dargen", "Phone" : "01707 264727", "Email" : "falconjudoherts@yahoo.com"},
+"Judoka" : "See website",
+"Link" : "www.falconjudo.co.uk"
+},
+
+{
+"Club_Name" : "Falcon Judo (Woolmer Green)",
+"Area" : "Hertfordshire",
+"Training_Address" : "Oaklands Primary School, Great North Road, Welwyn, AL6 0PX",
+"Contact" : {"Name" : "Matt Nutting", "Email" : "m.nutting@hotmail.co.uk"},
+"Judoka" : "See website",
+"Link" : "www.falconjudo.co.uk"
+},
+
+{
+"Club_Name" : "Hitchin Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "Old Gymnasium, Hitchin Boys School Sports Centre, Grammar School Walk, Hitchin, SG5 1JB",
+"Contact" : {"Name" : "Mike Orton", "Phone" : "01462 455568", "Email" : "mo@modesigns.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.hitchinjudoclub.co.uk"
+},
+
+{
+"Club_Name" : "Iruka Judokwai",
+"Area" : "Hertfordshire",
+"Training_Address" : "Watford Field, School Annexe, Elfrida Road, Watford, WD18 0AZ",
+"Contact" : {"Name" : "Carol Walker", "Phone" : "07970 773801", "Email" : "cawalker@ntlworld.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Marshalwick Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "The Gym, Sandringham School, The Ridgeway, AL4 9NX",
+"Contact" : {"Name" : "Wendy Seabrook", "Phone" : "07828 527735", "Email" : "douglas@mjclub.wanadoo.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.marshalwickjudoclub.co.uk"
+},
+
+{
+"Club_Name" : "Rush Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "Northchurch Social Centre, Bell Lane, Berkhamsted, HP4 3RD",
+"Contact" : {"Name" : "Laurie Rush", "Phone" : "01296 631850", "Email" : "rushjudo@hotmail.co.uk"},
+"Judoka" : "Senior with learning difficulties & Junior",
+"Link" : "www.rushjudo.co.uk"
+},
+
+{
+"Club_Name" : "St Albans Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "The Dojo, Heathlands Drive, Bernards Heath, AL3 5AY",
+"Contact" : {"Name" : "Ceris Nash", "Email" : "cerisnash@hotmail.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.stalbansjudo.org.uk"
+},
+
+{
+"Club_Name" : "St Michael's Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "Meridan Community Centre, Garsmouth Way, Watford, WD2 9ET",
+"Contact" : {"Name" : "Ron Field", "Phone" : "01923 443209", "Email" : "ronfieldstmichaelsjc@hotmail.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.stmichaelsjudo.org"
+},
+
+{
+"Club_Name" : "Stevenage Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "Merriotts Sports Centre, Telford Avenue, Stevenage, SG2 0AN",
+"Contact" : {"Name" : "Timothy Lardner", "Email" : "lardner.tim@live.co.uk"},
+"Judoka" : "See website",
+"Link" : "www.stevenagejudoclub.co.uk"
+},
+
+{
+"Club_Name" : "Stotfold Junior Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "The Memorial Hall, Hallworth Drive, Hitchin Road, SG5 4HR",
+"Contact" : {"Name" : "Ken Broadribb", "Phone" : "07765 890250", "Email" : "kenbroadribb@btinternet.com"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "V & E Judokwai",
+"Area" : "Hertfordshire",
+"Training_Address" : "Victoria & Elm Park, Youth Centre, Goffs Lane, Cheshunt, EN7 5QN",
+"Contact" : {"Name" : "Stephen Hill", "Phone" : "07894  200438", "Email" : "stevehill976@btinternet.com"},
+"Judoka" : "Junior",
+"Link" : "www.vejudokwai.co.uk"
+},
+
+{
+"Club_Name" : "Welwyn Garden City Judo Club",
+"Area" : "Hertfordshire",
+"Training_Address" : "Gosling Sports Park, Welwyn Garden City, AL8 6XG",
+"Contact" : {"Name" : "Ben J Almond", "Email" : "ben.almond@commerzbank.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.wgcjudoclub.com"
+},
+
+
+
+
+
+
+
+{
+"Club_Name" : "Hampton Judo Club",
+"Area" : "Middlesex",
+"Training_Address" : "All Saints Church Hall, The Avenue, Hampton, TW12 3RS",
+"Contact" : {"Name" : "Peter Swettenham", "Email" : "pete@academyjudo.com"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Harefield Judo Club",
+"Area" : "Middlesex",
+"Training_Address" : "Harefield Community Centre, Priory Avenue, Harefield, UB9 6AP",
+"Contact" : {"Name" : "Karen Wolton Dacre", "Email" : "colindacre@hotmail.com"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Kyu Shin Ryu Judo Club",
+"Area" : "Middlesex",
+"Training_Address" : "Hayes Rugby Club, Kingshill Avenue, Northolt, UB4 8DD",
+"Contact" : {"Name" : "Eric  Cranston", "Phone" : "020 8578 3815", "Email" : "ecranston63@gmail.com"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+
+
+
+
+
+
+{
+"Club_Name" : "Appleton Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "Appleton Village Hall, Appleton, Abingdon, OX13 5PU",
+"Contact" : {"Name" : "Maureen Lambert", "Phone" : "01865 863248", "Email" : "mjlambert1@btinternet.com"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Abingdon Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "Guildhall, Abbey Close, Abingdon, OX14 3JE",
+"Contact" : {"Name" : "Sioban Tierney", "Email" : "abingdonjudoclub@hotmail.co.uk"},
+"Judoka" : "Please contact",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Banbury Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "Wood Green, Leisure Centre, Wood Green Avenue, Banbury, OX16 0HS",
+"Contact" : {"Name" : "Marco De-Meis", "Phone" : "07747 777909", "Email" : "msdemeis@aol.com"},
+"Judoka" : "Junior & Senior",
+"Link" : "www.banburybodicotejudoclub.org.uk"
+},
+
+{
+"Club_Name" : "Cropredy Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "Cropredy Village Hall, OX3 8AA",
+"Contact" : {"Name" : "Scott Bedding", "Email" : "scottenergies@hotmail.co.uk"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Free Spirit Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "The Scout Hut, Station Road, Chinnor, OX39 4PZ",
+"Contact" : {"Name" : "Elaine Dutton", "Email" : "elainekatmat@aol.com"},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Kidlington Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "Kidlington & Gosford, Leisure Centre, Oxford Road, OX5 2NU",
+"Contact" : {"Name" : "John Edwards", "Phone" : "", "Email" : ""},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+},
+
+{
+"Club_Name" : "Oxford City Judo Club",
+"Area" : "Oxfordshire",
+"Training_Address" : "Oxford University, Sports Complex, Iffley Road, OX4 1EQ",
+"Contact" : {"Name" : "Carol Doherty", "Email" : "caroldoherty2@hotmail.com"},
+"Judoka" : "Senior",
+"Link" : "www.oxfordjudo.com"
+},
+
+{
+"Club_Name" : "Oxford Schools of Judo",
+"Area" : "Oxfordshire",
+"Training_Address" : "All Saints Church House, New High Street, Headington, Oxford, OX3 7AL",
+"Contact" : {"Name" : "Lynda Wilkins", "Email" : "oxfordjudo@gmail.com"},
+"Judoka" : "Junior",
+"Link" : ""
+},
+
+
+
+
+
+
+
+{
+"Club_Name" : "Example",
+"Area" : "Oxfordshire",
+"Training_Address" : "Example",
+"Contact" : {"Name" : "", "Phone" : "", "Email" : ""},
+"Judoka" : "Junior & Senior",
+"Link" : ""
+}
+]
